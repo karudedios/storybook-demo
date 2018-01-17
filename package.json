@@ -1,0 +1,18 @@
+{
+  "name": "storybook-demo",
+  "version": "0.0.0",
+  "description": "Demo of Storybook with React",
+  "main": "src/index.js",
+  "author": "Carlos de Dios<c.dedios@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.3.9",
+    "babel-core": "^6.26.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0"
+  }
+}
