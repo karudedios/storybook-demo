@@ -6,7 +6,7 @@
   "author": "Carlos de Dios<c.dedios@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "storybook": "start-storybook -p 9001 -c src/.storybook"
+    "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "devDependencies": {
     "@storybook/react": "^3.3.9",
